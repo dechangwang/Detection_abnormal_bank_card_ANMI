@@ -1,1 +1,3 @@
-## 此项工作是基于LSCP论文及相关思路进行开展的
+## Detection_abnormal_bank_card_ANMI
+- This project comes from the specific bank card theft analysis project that the author is carrying out.
+- The idea of solving this problem comes from LSCP papers and other related papers
